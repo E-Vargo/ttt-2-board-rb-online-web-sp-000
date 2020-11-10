@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = '#["","","","","","","","",""]'
+board = "variable"
 board[0]
 board[1]
 board[2]
