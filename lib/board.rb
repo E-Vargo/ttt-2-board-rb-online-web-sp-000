@@ -1,5 +1,6 @@
 # Define the variable board below.
 board = "variable"
+variable = '#["","","","","","","","",""]'
 board[0]
 board[1]
 board[2]
